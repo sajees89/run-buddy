@@ -8,3 +8,6 @@ A website that offers fitness training services.
 * CSS
 
 ## Website 
+https://sajees89.github.io/run-buddy/
+
+Made with ❤️ by Saj Jeya
